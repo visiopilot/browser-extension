@@ -7,6 +7,7 @@ AI web automation chat that accelerates and automates daily tasks. Build custom 
 Please note that we don't store any of your private data; everything is processed in your browser. Only AI tasks require sending prompts and responses to our servers. We don't store any of this data.
 
 * [🦊 Install Extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/visiopilot/)
+* [⭕ Install Extension for Chrome](https://chromewebstore.google.com/detail/visiopilot/kpkalljnibhiahfgkbgkgjibpeinfmpa)
 
 This repository is only for bug reports and feature requests.
 
