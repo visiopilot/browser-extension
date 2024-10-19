@@ -6,7 +6,7 @@ AI web automation chat that accelerates and automates daily tasks. Build custom 
 
 This extension requires access to AI. You can either use our cloud service, which offers paid access via pre-paid credits, or opt for a local LLM server, such as Ollama or LM Studio. With the local server option, the extension is completely free to use.
 
-Please note that we don't store any of your private data; everything is processed in your browser. Only AI tasks require sending prompts and responses to our servers.
+Please note that we don't store any of your private data; everything is processed in your browser. Only AI tasks require sending prompts and responses to our servers or your local LLM server.
 
 To use this extension, you'll need to create an account on our platform. This helps us deliver a significantly improved user experience.
 
