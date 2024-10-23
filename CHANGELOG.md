@@ -1,3 +1,7 @@
+## 0.0.4
+
+- Fixed a bug related to updating the auth token.
+
 ## 0.0.3
 
 - VisioPilot now supports integration with a local LLM server.
