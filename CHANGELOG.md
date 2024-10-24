@@ -1,3 +1,7 @@
+## 0.0.5
+
+- Improved the visual appearance of the widget when it is minimized.
+
 ## 0.0.4
 
 - Fixed a bug related to updating the auth token.
